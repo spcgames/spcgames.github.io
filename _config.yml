@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Darren Pearson # add your name
 author-img: headshot-darren.jpg # add your photo
-about-author: I'm a community college instructor who creates retro games in Javascript and Tumult Hype # add description
+about-author: I'm a community college instructor who creates retro games in Javascript and Tumult Hype <br/> <br/><a href="https://spcgames.github.io/resume/resume.pdf" target="_blank">RESUME</a> # add description
 social-twitter: dpearson100 # add your Twitter handle
 social-facebook: dpearson100 # add your Facebook handle
 social-github: dpearson100 # add your Github handle
